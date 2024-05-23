@@ -11,7 +11,7 @@ I'm a senior student from [School of computer, Data and Information Science](htt
 
 The courses I take recently are Introduction to Optimization, [STAT 453](https://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/): Introduction to Deep Learning and Generative Models, [STAT 451](https://pages.stat.wisc.edu/~jgillett/451/): Introduction to Machine Learning and Statistical Pattern Classification.
 
-I used to work at futures & options company as well as Investment Bank as a student intern. After learning Data Science and Math in college. I will continue learning in the fields of ML, DL, AI and finance, go more deep and exploring interesting perspectives and think about how can these knowledge and skills be combined in practical application.
+I used to work at futures & options company as well as Investment Bank as a student intern. After learning Data Science and Math in college. I will continue learning in the fields of ML, DL, AI and financial markets, go deeper, exploring interesting perspectives and think about how can these knowledge and skills be combined in practical application.
 
 You can find my resume here: [Zerui Li's Resume](../assets/Resume_0523.pdf)
 

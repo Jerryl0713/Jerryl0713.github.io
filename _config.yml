@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zerui Li / Personal Website"
+title                    : "Zerui Li / Homepage"
 title_separator          : "-"
 name                     : &name "Zerui Li"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "https://Jerryl0713/Jerryl0713.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zerui Li (Jerry)"
   pronouns         : "he/him"  
-  bio              : "Senoir Undergraduate Majoer in MATH & DATA SCIENCE"
+  bio              : "Senior Undergraduate Majoer in MATH & DATA SCIENCE"
   location         : "MADISON, WI 53703"
   employer         : "University of Wisconsin-Madison"
   uri              : https://jerryl0713.github.io/

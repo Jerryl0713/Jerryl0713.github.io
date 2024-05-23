@@ -13,6 +13,6 @@ The courses I take recently are Introduction to Optimization, [STAT 453](https:/
 
 You can find my resume here: [Zerui Li's Resume](../assets/resume_0522)
 
-[Personal Email](mailto:ZL202208@hotmail.com); [University Email](mailto:zli2529@wisc.edu)
+Contact me: [Personal Email](mailto:ZL202208@hotmail.com)/ [University Email](mailto:zli2529@wisc.edu)/ [WeChat](../images/mywechat.jpg)
 
-[Github](https://github.com/Jerryl0713); [WeChat](../images/mywechat.jpg)
+

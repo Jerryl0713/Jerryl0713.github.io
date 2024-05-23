@@ -11,7 +11,7 @@ I'm a senior student from [School of computer, Data and Information Science](htt
 
 The courses I take recently are Introduction to Optimization, [STAT 453](https://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/): Introduction to Deep Learning and Generative Models, [STAT 451](https://pages.stat.wisc.edu/~jgillett/451/): Introduction to Machine Learning and Statistical Pattern Classification.
 
-You can find my resume here: [Zerui Li's Resume](../assets/Resume_0523)
+You can find my resume here: [Zerui Li's Resume](../assets/Resume_0523.pdf)
 
 Contact me: [Personal Email](mailto:ZL202208@hotmail.com)/ [University Email](mailto:zli2529@wisc.edu)/ [WeChat](../images/mywechat.jpg)
 

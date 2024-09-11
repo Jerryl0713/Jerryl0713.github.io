@@ -13,7 +13,7 @@ The courses I take recently are Introduction to Optimization, [STAT 453](https:/
 
 I used to work at futures & options company as well as Investment Bank as a student intern. After learning Data Science and Math in college. I will continue learning in the fields of ML, DL, AI and financial markets, go deeper, exploring interesting perspectives and think about how can these knowledge and skills be combined in practical application.
 
-You can find my resume here: [Zerui Li's Resume](../assets/Resume_0523.pdf)
+You can find my resume here: [Zerui Li's Resume](../assets/Resume_Jerry Li_20240825.pdf)
 
 Feel free to contact me: [Personal Email](mailto:ZL202208@hotmail.com)/ [University Email](mailto:zli2529@wisc.edu)/ [WeChat](../images/mywechat.jpg)
 
